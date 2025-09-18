@@ -597,6 +597,10 @@ rect.held, rect.combo.held {
 <tspan x="178" dy="-0.6em">Ctl+</tspan><tspan x="178" dy="1.2em">Y</tspan>
 </text>
 </g>
+<g class="combo combopos-12">
+<rect rx="6" ry="6" x="105" y="25" width="28" height="26" class="combo"/>
+<use href="#mdi:refresh" xlink:href="#mdi:refresh" x="112" y="31" height="14" width="14.0" class="combo tap glyph mdi:refresh"/>
+</g>
 </g>
 </g>
 <g transform="translate(30, 354)" class="layer-NUM">
@@ -818,6 +822,10 @@ rect.held, rect.combo.held {
 <tspan x="178" dy="-0.6em">Ctl+</tspan><tspan x="178" dy="1.2em">Y</tspan>
 </text>
 </g>
+<g class="combo combopos-6">
+<rect rx="6" ry="6" x="105" y="25" width="28" height="26" class="combo"/>
+<use href="#mdi:refresh" xlink:href="#mdi:refresh" x="112" y="31" height="14" width="14.0" class="combo tap glyph mdi:refresh"/>
+</g>
 </g>
 </g>
 <g transform="translate(30, 709)" class="layer-NAV">
@@ -1030,6 +1038,10 @@ rect.held, rect.combo.held {
 <tspan x="178" dy="-0.6em">Ctl+</tspan><tspan x="178" dy="1.2em">Y</tspan>
 </text>
 </g>
+<g class="combo combopos-8">
+<rect rx="6" ry="6" x="105" y="25" width="28" height="26" class="combo"/>
+<use href="#mdi:refresh" xlink:href="#mdi:refresh" x="112" y="31" height="14" width="14.0" class="combo tap glyph mdi:refresh"/>
+</g>
 </g>
 </g>
 <g transform="translate(30, 1077)" class="layer-FUN">
@@ -1224,6 +1236,10 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="655" y="81" width="28" height="26" class="combo"/>
 <use href="#mdi:arrow-right-bold-box-outline" xlink:href="#mdi:arrow-right-bold-box-outline" x="662" y="87" height="14" width="14.0" class="combo tap glyph mdi:arrow-right-bold-box-outline"/>
 </g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="105" y="25" width="28" height="26" class="combo"/>
+<use href="#mdi:refresh" xlink:href="#mdi:refresh" x="112" y="31" height="14" width="14.0" class="combo tap glyph mdi:refresh"/>
+</g>
 </g>
 </g>
 <g transform="translate(30, 1472)" class="layer-MAC">
@@ -1410,6 +1426,10 @@ rect.held, rect.combo.held {
 <g class="combo combopos-0">
 <rect rx="6" ry="6" x="655" y="25" width="28" height="26" class="combo"/>
 <use href="#mdi:refresh" xlink:href="#mdi:refresh" x="662" y="31" height="14" width="14.0" class="combo tap glyph mdi:refresh"/>
+</g>
+<g class="combo combopos-2">
+<rect rx="6" ry="6" x="105" y="25" width="28" height="26" class="combo"/>
+<use href="#mdi:refresh" xlink:href="#mdi:refresh" x="112" y="31" height="14" width="14.0" class="combo tap glyph mdi:refresh"/>
 </g>
 </g>
 </g>
