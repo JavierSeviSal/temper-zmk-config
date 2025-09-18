@@ -265,6 +265,11 @@
             key-positions = <12 13>;
             layers = <0 2 1>;
         };
+
+        f5_2 {
+            bindings = <&kp LC(F5)>;
+            key-positions = <1 2>;
+        };
     };
 
     macros {
