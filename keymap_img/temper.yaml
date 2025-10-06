@@ -185,6 +185,7 @@ combos:
   a: top
 - p: [7, 8]
   k: $$mdi:refresh$$
+  l: [NUM, NAV]
 - p: [0, 5]
   k: $$mdi:progress-download$$
   l: [FUN]
@@ -207,3 +208,4 @@ combos:
   l: [DEF, NAV, NUM]
 - p: [1, 2]
   k: $$mdi:refresh$$
+  l: [NUM, NAV]
