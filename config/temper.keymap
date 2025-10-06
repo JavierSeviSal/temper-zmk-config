@@ -229,6 +229,7 @@
         refresh {
             bindings = <&kp LC(F5)>;
             key-positions = <7 8>;
+            layers = <1 2>;
         };
 
         cntrl_bootloader {
@@ -269,6 +270,7 @@
         f5_2 {
             bindings = <&kp LC(F5)>;
             key-positions = <1 2>;
+            layers = <1 2>;
         };
     };
 
