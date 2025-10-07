@@ -209,3 +209,5 @@ combos:
 - p: [1, 2]
   k: $$mdi:refresh$$
   l: [NUM, NAV]
+- p: [10, 19]
+  k: $$mdi:microsoft-windows$$
