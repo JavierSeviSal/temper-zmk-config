@@ -272,6 +272,11 @@
             key-positions = <1 2>;
             layers = <1 2>;
         };
+
+        Gui {
+            bindings = <&kp LEFT_GUI>;
+            key-positions = <10 19>;
+        };
     };
 
     macros {
