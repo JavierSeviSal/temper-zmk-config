@@ -11,7 +11,7 @@ layers:
     - {t: J, h: '$$mdi:apple-keyboard-shift$$'}
     - {t: K, h: ALT}
     - {t: L, h: '$$mdi:apple-keyboard-control$$'}
-    - ;
+    - {t: ;, h: '$$mdi:microsoft-windows$$'}
   - [Z, X, C, V, B, N, M, ',', ., /]
   - - $$mdi:keyboard-tab$$
     - {t: '$$mdi:backspace-reverse-outline$$', h: NUM, s: NUM}
