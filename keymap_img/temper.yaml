@@ -171,7 +171,7 @@ combos:
   l: [DEF]
 - p: [0, 1]
   k: $$mdi:keyboard-esc$$
-  l: [DEF]
+  l: [DEF, NUM]
 - p: [1, 0]
   k: $$mdi:close-box-outline$$
   l: [NAV]
