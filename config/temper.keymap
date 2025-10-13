@@ -174,7 +174,7 @@
         caps {
             bindings = <&kp CAPSLOCK>;
             key-positions = <14 15>;
-            timeout-ms = <100>;
+            timeout-ms = <50>;
             layers = <0>;
         };
 
