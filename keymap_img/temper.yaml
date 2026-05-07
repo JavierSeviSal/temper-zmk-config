@@ -126,7 +126,7 @@ layers:
     - {t: '$$mdi:chevron-down$$', type: trans}
     - {t: '$$mdi:chevron-down$$', type: trans}
   - - $$mdi:microsoft-visual-studio-code$$
-    - $$mdi:calculator$$
+    - {t: '$$mdi:chevron-down$$', type: trans}
     - $$mdi:console$$
     - $$mdi:spotify$$
     - {t: '$$mdi:chevron-down$$', type: trans}
@@ -137,7 +137,7 @@ layers:
     - $$mdi:cog$$
   - - {t: '$$mdi:chevron-down$$', type: trans}
     - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
+    - $$mdi:calculator$$
     - {t: '$$mdi:chevron-down$$', type: trans}
     - {t: '$$mdi:chevron-down$$', type: trans}
     - {t: '$$mdi:chevron-down$$', type: trans}
