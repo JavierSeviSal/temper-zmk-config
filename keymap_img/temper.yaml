@@ -192,7 +192,7 @@ combos:
   a: top
   o: 1.0
 - p: [31, 34]
-  k: MAC
+  k: {t: MAC, h: '$$mdi:circle-small$$'}
   hidden: true
 - p: [16, 17]
   k: $$mdi:arrow-left-bold-box-outline$$
