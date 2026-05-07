@@ -126,9 +126,9 @@ layers:
     - {t: '$$mdi:chevron-down$$', type: trans}
     - {t: '$$mdi:chevron-down$$', type: trans}
   - - $$mdi:microsoft-visual-studio-code$$
-    - {t: '$$mdi:chevron-down$$', type: trans}
     - $$mdi:console$$
     - $$mdi:spotify$$
+    - {t: '$$mdi:chevron-down$$', type: trans}
     - {t: '$$mdi:chevron-down$$', type: trans}
     - {t: '$$mdi:chevron-down$$', type: trans}
     - {t: '$$mdi:chevron-down$$', type: trans}
