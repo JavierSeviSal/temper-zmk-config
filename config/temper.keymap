@@ -16,14 +16,7 @@
 #define MAC 4
 
 / {
-    conditional_layers {
-        compatible = "zmk,conditional-layers";
-
-        macro {
-            if-layers = <1 2>;
-            then-layer = <4>;
-        };
-    };
+    conditional_layers { compatible = "zmk,conditional-layers"; };
 
     behaviors {
         media: media {
@@ -239,7 +232,7 @@
         };
 
         mac_layer {
-            bindings = <&mo 4>;
+            bindings = <&sl 4>;
             key-positions = <31 34>;
         };
 
@@ -359,10 +352,10 @@
         mac_layer {
             display-name = "MAC";
             bindings = <
-&trans              &trans              &trans              &trans              &trans  &trans  &trans  &trans              &trans     &trans
-&kp LS(LA(LC(F5)))  &kp LC(LS(LA(F9)))  &kp LS(LA(LC(F8)))  &trans              &trans  &trans  &trans  &kp LS(LA(LC(F7)))  &kp LG(E)  &kp LG(I)
-&trans              &trans              &kp LS(LA(LC(F6)))  &trans              &trans  &trans  &trans  &trans              &trans     &trans
-                                        &trans              &trans              &trans  &trans  &trans  &trans
+&trans              &trans              &trans              &trans  &trans  &trans  &trans  &trans              &trans     &trans
+&kp LS(LA(LC(F5)))  &kp LC(LS(LA(F9)))  &kp LS(LA(LC(F8)))  &trans  &trans  &trans  &trans  &kp LS(LA(LC(F7)))  &kp LG(E)  &kp LG(I)
+&trans              &trans              &kp LS(LA(LC(F6)))  &trans  &trans  &trans  &trans  &trans              &trans     &trans
+                                        &trans              &trans  &trans  &trans  &trans  &trans
             >;
         };
     };
