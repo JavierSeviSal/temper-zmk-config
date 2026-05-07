@@ -115,42 +115,15 @@ layers:
     - ''
     - {type: held}
   MAC:
-  - - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
-  - - $$mdi:microsoft-visual-studio-code$$
-    - $$mdi:console$$
-    - $$mdi:spotify$$
-    - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
-    - $$mdi:store-settings$$
-    - $$mdi:folder-home$$
-    - $$mdi:cog$$
-  - - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
-    - $$mdi:calculator$$
-    - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
-  - - {t: '$$mdi:chevron-down$$', type: trans}
+  - ['', '', '$$mdi:folder-home$$', '', '', '', '', '', '', '']
+  - ['$$mdi:cog$$', '$$mdi:console$$', '$$mdi:spotify$$', '', '', '', '', '$$mdi:store-settings$$', '', '']
+  - ['', '', '$$mdi:calculator$$', '', '', '', '', '', '', '']
+  - - ''
     - {type: held}
-    - {t: '$$mdi:chevron-down$$', type: trans}
-    - {t: '$$mdi:chevron-down$$', type: trans}
+    - ''
+    - ''
     - {type: held}
-    - {t: '$$mdi:chevron-down$$', type: trans}
+    - ''
 combos:
 - p: [14, 15]
   k: $$mdi:apple-keyboard-caps$$
