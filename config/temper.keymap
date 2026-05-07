@@ -352,10 +352,10 @@
         mac_layer {
             display-name = "MAC";
             bindings = <
-&trans              &trans              &trans              &trans  &trans  &trans  &trans  &trans              &trans     &trans
-&kp LS(LA(LC(F5)))  &kp LC(LS(LA(F9)))  &kp LS(LA(LC(F8)))  &trans  &trans  &trans  &trans  &kp LS(LA(LC(F7)))  &kp LG(E)  &kp LG(I)
-&trans              &trans              &kp LS(LA(LC(F6)))  &trans  &trans  &trans  &trans  &trans              &trans     &trans
-                                        &trans              &trans  &trans  &trans  &trans  &trans
+&none      &none               &kp LG(E)           &none  &none  &none  &none  &none               &none  &none
+&kp LG(I)  &kp LC(LS(LA(F9)))  &kp LS(LA(LC(F8)))  &none  &none  &none  &none  &kp LS(LA(LC(F7)))  &none  &none
+&none      &none               &kp LS(LA(LC(F6)))  &none  &none  &none  &none  &none               &none  &none
+                               &none               &none  &none  &none  &none  &none
             >;
         };
     };
